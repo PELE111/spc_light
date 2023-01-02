@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spc_light:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spc_light_jar</output-path>
+    <root id="archive" name="spc_light.jar">
+      <element id="module-output" name="spc_light" />
+    </root>
+  </artifact>
+</component>
