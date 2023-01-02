@@ -3,6 +3,7 @@ public class Switch {
     int blue = 0;
     int green = 0;
     int red = 0;
+    int width=1;
 
     void print(boolean last){
         System.out.println("{");
